@@ -10,6 +10,6 @@ public:
                 s+=strs[i];
             }
         }
-        return s;
+        return sn;
     }
 };
